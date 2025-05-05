@@ -114,8 +114,9 @@ DB조회: 테이블("users"), 조건("가입일 > '2024-01-01'") → 결과: 사
 계획: 웹페이지에서 여러 선택자(class/id 등)를 기준으로 정보를 수집한다
 입력: 대상URL = "https://www.example.com"
 선택자: [".product-title", "#main-title", ".highlight"]
-반복: 선택자마다 → {
-  크롤링: URL={대상URL}, selector={선택자}, 저장: temp[{선택자}]
+우선순위: ["#main-title", ".highlight", ".product-title"]
+반복: 우선순위마다 → {
+  크롤링: URL={대상URL}, selector={우선순위}, 저장: temp[{우선순위}]
 }
 출력: 텍스트("선택자별 수집 완료: {temp}")
 ```
