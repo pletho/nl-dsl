@@ -19,7 +19,7 @@
 
 **NL-DSL**은 *Natural Language - Domain Specific Language*의 약자로,
 "자연어 기반 도메인 특화 언어"를 뜻한다.
-s
+
 이 선언문에서 NL-DSL은 한국어 사용자 중심의 구조로 시작되며,
 다른 나라에서는 각자의 언어로 동일한 구조를 해석하여 사용할 수 있도록 열려 있다.
 
