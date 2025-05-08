@@ -3,7 +3,7 @@
 \*\*StrInStrUm (String Input - String Output Mapping)\*\*은 Zzun님이 구상하고 있는 **NL-DSL (Natural Language - Domain Specific Language) 기반의 프로세스 자동화 및 웹 자동화 시스템**으로, 특히 **자연어 지시어**를 통해 다양한 작업을 자동으로 수행할 수 있도록 설계된 시스템입니다.
 
 ---
-
+ 
 ## 📌 **1. StrInStrUm의 핵심 개념**
 
 * **StrIn (String Input):** 자연어 또는 구조화된 명령어로 입력을 받아, DSL로 변환.
