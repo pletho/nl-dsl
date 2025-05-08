@@ -1,5 +1,5 @@
-# nl-dsl
-NL-DSL의 초기 선언문
+# StrInStrUm
+스트린스트럼(NL-DSL의 확장) 의 초기 선언문
 
 (일부 )
 
