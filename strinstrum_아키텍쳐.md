@@ -1,5 +1,4 @@
 # StrInStrUm 아키텍처 (Rust + Python)
-# StrInStrUm 아키텍처 (Rust + Python)
 
 ## ✅ 개요
 
